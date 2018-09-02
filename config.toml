@@ -24,12 +24,12 @@ publishDir = "../tt.me-doc"
     name = "Posts"
     weight = 1
 [[menu.main]]
-    url = "/categories"
+    url = "/categories/"
     name = "Categories"
     weight = 2
 
 [[menu.main]]
-    url = "/tags"
+    url = "/tags/"
     name = "tags"
     weight = 3
 
