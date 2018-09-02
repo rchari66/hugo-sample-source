@@ -1,4 +1,4 @@
-baseURL = "https://techtaste.in"
+baseURL = "https://techtaste.in/"
 languageCode = "en-us"
 title = "techtaste"
 theme = "hugo-min"
