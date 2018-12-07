@@ -4,7 +4,7 @@ title = "Techtaste"
 theme = "hugo-min"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
-publishDir = "../site"
+publishDir = "../mySite"
 
 [params]
     author = "Chari"
@@ -45,7 +45,7 @@ publishDir = "../site"
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:raghav0966@gmail.com"
+    url = "mailto:youremail@gmail.com"
     name = "envelope-o"
     weight = 1
 
