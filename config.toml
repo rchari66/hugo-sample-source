@@ -1,10 +1,12 @@
-baseURL = "https://techtaste.me/"
+baseURL = "https://<Github-userid>.github.io/"
+publishDir = "../mySite"
+
 languageCode = "en-us"
 title = "Techtaste"
 theme = "hugo-min"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
-publishDir = "../mySite"
+
 
 [params]
     author = "Chari"
